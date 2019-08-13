@@ -1,6 +1,6 @@
-# Get Tweets From User
+# Get Tweets From @username
 
-Python script that getting tweets from the entered user using Twitter API.
+Python script that getting tweets from the entered @username using Twitter API.
 
 The script can get all* tweets from a user.
 
